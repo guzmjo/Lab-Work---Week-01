@@ -5,7 +5,7 @@ public class Car extends Vehicle {
 
     //default constructor
     public Car(){
-        brand = "Mazda";
+        brand = "N/A";
     }
 
     public void honk() {
